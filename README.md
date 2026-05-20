@@ -1,10 +1,10 @@
 # Twitch Username Incident Report
 
-Ce dépôt contient un rapport d’incident concernant une série de pseudos Twitch offensants ou haineux.
+Ce dépôt regroupe des rapports d’incident liés à la modération Twitch, avec documentation des pseudos problématiques, des comportements abusifs, des patterns récurrents et des actions de modération associées.
 
-## Fichier principal
+## Fichier des rapports d’incident
 
-- `INCIDENT_REPORT_TWITCH_USERNAMES.md`
+- `Rapport d’incident du 20-05-2026.md`
 
 ## Objectif
 
