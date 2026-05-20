@@ -6,11 +6,15 @@ Ce dépôt regroupe des rapports d’incident liés à la modération Twitch, av
 
 - [20/05/2026 — Série de pseudos Twitch offensants et haineux](./rapports/Rapport%20d’incident%20du%2020-05-2026.md)
 
+## Propositions d’amélioration
+
+- [Propositions d’amélioration pour la modération des pseudos Twitch](./propositions/PROPOSITIONS_TWITCH_MODERATION.md)
+
 ## Objectif
 
-Documenter un pattern récurrent de pseudos problématiques, fournir un motif de signalement groupé clair, et formuler des recommandations de prévention à destination de Twitch.
+Documenter des incidents liés à la modération Twitch, identifier des patterns récurrents, fournir des motifs de signalement groupé clairs et formuler des recommandations de prévention à destination de Twitch.
 
 ## Note importante
 
-Le rapport documente des pseudos problématiques et peut contenir des termes offensants dans un but de preuve et d’analyse de modération.  
+Les rapports documentent des pseudos problématiques et peuvent contenir des termes offensants dans un but de preuve et d’analyse de modération.  
 Il est conseillé de garder le contexte explicite pour éviter toute mauvaise interprétation.
