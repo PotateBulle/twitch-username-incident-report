@@ -1,4 +1,4 @@
-# Propositions d’amélioration pour la modération des pseudos Twitch
+# Propositions d’amélioration pour la modération des pseudos sur Twitch
 
 **Ces propositions ne visent pas à automatiser des sanctions massives. Elles visent à mieux détecter les cas manifestement problématiques, à faciliter leur revue humaine et à améliorer le lien entre la modération bénévole et les équipes internes de Twitch.**
 

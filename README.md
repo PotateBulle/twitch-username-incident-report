@@ -8,7 +8,7 @@ Ce dépôt regroupe des rapports d’incident liés à la modération Twitch, av
 
 ## Propositions d’amélioration
 
-- [Propositions d’amélioration pour la modération des pseudos Twitch](./propositions/PROPOSITIONS_TWITCH_MODERATION.md)
+- [Propositions d’amélioration pour la modération des pseudos Twitch](./propositions/propositions-amelioration-moderation-pseudos-twitch.md)
 
 ## Objectif
 
