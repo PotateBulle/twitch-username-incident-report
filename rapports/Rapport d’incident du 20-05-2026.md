@@ -27,7 +27,7 @@ Le point commun principal est l’usage d’une structure répétitive :
 - une cible potentiellement liée à une origine, une religion, une orientation sexuelle, une identité de genre, une caractéristique physique, une situation familiale ou une population liée à un conflit
 - des variantes orthographiques permettant de contourner une détection simple par mot-clé
 
-Ce type de pattern pose un problème de sécurité communautaire, car l’identifiant est visible publiquement et peut produire un effet d’intimidation avant même que l’utilisateur n’écrive dans le chat.
+Ce type de pattern pose un problème de sécurité communautaire, car l’identifiant est visible publiquement et peut produire un effet d’intimidation avant même que l’utilisateurice n’écrive dans le chat.
 
 ---
 
@@ -80,7 +80,7 @@ Le motif **Intimidation ou harcèlement** peut également être pertinent si ces
 
 ## 5. Message court utilisable pour un signalement groupé Twitch
 
-> Bonjour, je souhaite signaler une série de pseudos Twitch que j’ai bannis de ma communauté, car ils suivent un pattern offensant, violent et potentiellement haineux. Plusieurs identifiants associent des formulations agressives comme “arracheur”, “démonteur” ou “pourfendeur” à des groupes protégés, des références religieuses, ethniques, sexuelles, familiales ou personnelles. Le schéma semble répété avec des variantes orthographiques, ce qui peut indiquer une volonté de contourner la modération. Ces pseudos peuvent être perçus comme racistes, antisémites, homophobes, transphobes, xénophobes, misogynes ou intimidants. J’ai donc pris une mesure préventive en bannissant ces comptes afin de protéger ma communauté contre le harcèlement, la provocation haineuse ou d’éventuels raids. Merci de vérifier ces identifiants et leur conformité avec les règles Twitch concernant les noms d’utilisateur, les comportements haineux, l’intimidation et le harcèlement.
+> Bonjour, je souhaite signaler une série de pseudos Twitch que j’ai bannis de ma communauté, car ils suivent un pattern offensant, violent et potentiellement haineux. Plusieurs identifiants associent des formulations agressives comme “arracheur”, “démonteur” ou “pourfendeur” à des groupes protégés, des références religieuses, ethniques, sexuelles, familiales ou personnelles. Le schéma semble répété avec des variantes orthographiques, ce qui peut indiquer une volonté de contourner la modération. Ces pseudos peuvent être perçus comme racistes, antisémites, homophobes, transphobes, xénophobes, misogynes ou intimidants. J’ai donc pris une mesure préventive en bannissant ces comptes afin de protéger ma communauté contre le harcèlement, la provocation haineuse ou d’éventuels raids. Merci de vérifier ces identifiants et leur conformité avec les règles Twitch concernant les noms d’utilisateurices, les comportements haineux, l’intimidation et le harcèlement.
 
 ---
 
@@ -115,7 +115,7 @@ La présence de variantes comme “aracheur”, “arracheur”, “kiipa”, �
 
 Ce rapport ne vise pas à affirmer une responsabilité juridique définitive de Twitch. En revanche, il met en évidence une responsabilité de plateforme au sens de la prévention, de la conception produit et de la sécurité communautaire.
 
-Twitch dispose d’une politique officielle sur les noms d’utilisateur indiquant que les usernames et display names ne doivent pas inclure, entre autres, des menaces, de la violence ou du contenu haineux. Twitch indique également que les comportements haineux, le harcèlement et l’incitation à la violence sont interdits par ses règles communautaires.
+Twitch dispose d’une politique officielle sur les noms d’utilisateurices indiquant que les usernames et display names ne doivent pas inclure, entre autres, des menaces, de la violence ou du contenu haineux. Twitch indique également que les comportements haineux, le harcèlement et l’incitation à la violence sont interdits par ses règles communautaires.
 
 Le problème soulevé ici est donc le suivant : si de tels pseudos peuvent être créés, affichés et utilisés avant intervention humaine, alors la charge de détection est reportée sur les modérateurices, streameureuses et communautés. Cela crée plusieurs risques :
 
