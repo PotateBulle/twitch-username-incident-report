@@ -4,7 +4,7 @@ Ce dépôt regroupe des rapports d’incident liés à la modération Twitch, av
 
 ## Fichier des rapports d’incident
 
-- `Rapport d’incident du 20-05-2026.md`
+- [20/05/2026 — Série de pseudos Twitch offensants et haineux](./rapports/Rapport%20d’incident%20du%2020-05-2026.md)
 
 ## Objectif
 
